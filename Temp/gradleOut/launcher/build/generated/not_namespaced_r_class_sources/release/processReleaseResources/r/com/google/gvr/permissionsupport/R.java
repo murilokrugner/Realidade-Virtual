@@ -77,13 +77,13 @@ public final class R {
         public static final int go_to_playstore_button = 0x7f07000f;
         public static final int go_to_vr_listeners_settings_button = 0x7f070010;
         public static final int gvr_vr_mode_component = 0x7f070011;
-        public static final int no_browser_text = 0x7f070013;
-        public static final int place_your_phone_into_cardboard = 0x7f070014;
-        public static final int place_your_viewer_into_viewer_format = 0x7f070015;
-        public static final int settings_button_content_description = 0x7f070016;
-        public static final int setup_button = 0x7f070017;
-        public static final int switch_viewer_action = 0x7f070018;
-        public static final int switch_viewer_prompt = 0x7f070019;
+        public static final int no_browser_text = 0x7f070012;
+        public static final int place_your_phone_into_cardboard = 0x7f070013;
+        public static final int place_your_viewer_into_viewer_format = 0x7f070014;
+        public static final int settings_button_content_description = 0x7f070015;
+        public static final int setup_button = 0x7f070016;
+        public static final int switch_viewer_action = 0x7f070017;
+        public static final int switch_viewer_prompt = 0x7f070018;
     }
     public static final class style {
         private style() {}

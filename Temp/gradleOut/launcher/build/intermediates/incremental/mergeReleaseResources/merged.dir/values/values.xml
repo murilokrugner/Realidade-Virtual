@@ -56,7 +56,6 @@
     Go to Settings
   </string>
     <string description="Google VR component name used for enabling VR mode" name="gvr_vr_mode_component" translatable="false">com.google.vr.vrcore/com.google.vr.vrcore.common.VrCoreListenerService</string>
-    <string name="lib_name">GearVR</string>
     <string description=" Error message displayed as a Toast when Android could not find a browser to open a website. [CHAR LIMIT=50]" name="no_browser_text">
       No browser to open website
     </string>

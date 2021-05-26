@@ -8,8 +8,6 @@ drawable quantum_ic_close_white_24
 drawable quantum_ic_settings_white_24
 drawable rippleable
 drawable transition
-drawable vr_icon_back
-drawable vr_icon_front
 id back_button
 id divider
 id transition_bottom_frame
@@ -46,7 +44,6 @@ string dialog_vr_core_not_installed
 string go_to_playstore_button
 string go_to_vr_listeners_settings_button
 string gvr_vr_mode_component
-string lib_name
 string no_browser_text
 string place_your_phone_into_cardboard
 string place_your_viewer_into_viewer_format

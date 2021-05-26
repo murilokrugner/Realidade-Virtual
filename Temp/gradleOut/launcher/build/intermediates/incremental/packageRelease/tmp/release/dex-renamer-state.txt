@@ -1,4 +1,4 @@
-#Wed May 26 20:21:13 BRT 2021
+#Wed May 26 20:43:31 BRT 2021
 base.0=/Users/murilokrugner/Documents/www/RN/Realidade-Virtual/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/release/0
 path.0=classes.dex
 renamed.0=classes.dex

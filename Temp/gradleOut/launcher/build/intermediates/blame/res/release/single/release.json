@@ -108,14 +108,6 @@
         "source": "/Users/murilokrugner/Documents/www/RN/Realidade-Virtual/Temp/gradleOut/launcher/src/main/res/mipmap-mdpi/app_icon.png"
     },
     {
-        "merged": "/Users/murilokrugner/Documents/www/RN/Realidade-Virtual/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-nodpi-v4_vr_icon_back.png.flat",
-        "source": "/Users/murilokrugner/.gradle/caches/transforms-2/files-2.1/4ea8aef05ab303132354b21c1a379355/res/drawable-nodpi-v4/vr_icon_back.png"
-    },
-    {
-        "merged": "/Users/murilokrugner/Documents/www/RN/Realidade-Virtual/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-nodpi-v4_vr_icon_front.png.flat",
-        "source": "/Users/murilokrugner/.gradle/caches/transforms-2/files-2.1/4ea8aef05ab303132354b21c1a379355/res/drawable-nodpi-v4/vr_icon_front.png"
-    },
-    {
         "merged": "/Users/murilokrugner/Documents/www/RN/Realidade-Virtual/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-v21_rippleable.xml.flat",
         "source": "/Users/murilokrugner/.gradle/caches/transforms-2/files-2.1/fc6d7a7825bc26cb26ed99e47f65cf72/res/drawable-v21/rippleable.xml"
     },

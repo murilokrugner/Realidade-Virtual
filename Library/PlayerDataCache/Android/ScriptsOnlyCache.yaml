@@ -880,4 +880,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/Game.unity
-  playerPath: /Users/murilokrugner/Documents/www/RN/Realidade-Virtual/rn-1-3.apk
+  playerPath: /Users/murilokrugner/Documents/www/RN/Realidade-Virtual/rn-1-4.apk
