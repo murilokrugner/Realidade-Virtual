@@ -1,0 +1,98 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/murilokrugner/Documents/www/RN/Realidade-Virtual/Temp/gradleOut/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/murilokrugner/Documents/www/RN/Realidade-Virtual/Temp/gradleOut/launcher/src/main/res/values/ids.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "391",
+                        "endColumns": "45",
+                        "endOffsets": "432"
+                    }
+                },
+                {
+                    "source": "/Users/murilokrugner/Documents/www/RN/Realidade-Virtual/Temp/gradleOut/launcher/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "53,106",
+                        "endColumns": "52,65",
+                        "endOffsets": "103,169"
+                    },
+                    "to": {
+                        "startLines": "8,50",
+                        "startColumns": "4,4",
+                        "startOffsets": "437,3763",
+                        "endColumns": "54,67",
+                        "endOffsets": "487,3826"
+                    }
+                },
+                {
+                    "source": "/Users/murilokrugner/.gradle/caches/transforms-2/files-2.1/fc6d7a7825bc26cb26ed99e47f65cf72/res/values/values.xml",
+                    "from": {
+                        "startLines": "4,5,8,9,10,13,16,19,22,25,28,31,34,37,40,43,46,50,54,57,60,61,64,67,70,73,76,79,84,89,93,101",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "196,249,376,427,481,617,848,1152,1439,1622,1959,2292,2491,2688,2898,3108,3239,3535,3831,4137,4363,4566,4768,5049,5374,5577,5876,6085,6352,6599,6735,7066",
+                        "endLines": "4,5,8,9,10,15,18,21,24,27,30,33,36,39,42,45,49,53,56,59,60,63,66,69,72,75,78,81,86,90,98,107",
+                        "endColumns": "52,49,50,53,57,11,13,11,11,11,13,13,11,11,11,11,11,11,13,11,202,13,13,13,11,13,13,13,8,8,8,8",
+                        "endOffsets": "248,298,426,480,538,847,1151,1438,1621,1958,2291,2490,2687,2897,3107,3238,3534,3830,4136,4362,4565,4767,5048,5373,5576,5875,6084,6275,6510,6658,6977,7416"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,9,12,15,18,21,24,27,30,33,36,39,42,46,51,54,57,59,62,65,68,71,74,77,82,85,87,100",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,162,216,271,329,492,727,1035,1326,1513,1854,2196,2399,2600,2814,3028,3163,3463,3831,4141,4371,4622,4828,5113,5438,5645,5948,6161,6456,6619,6683,7295",
+                        "endLines": "2,3,4,5,6,11,14,17,20,23,26,29,32,35,38,41,45,49,53,56,57,61,64,67,70,73,76,79,84,86,92,106",
+                        "endColumns": "56,53,54,57,61,11,13,11,11,11,13,13,11,11,11,11,11,11,13,11,206,13,13,13,11,13,13,13,8,8,8,8",
+                        "endOffsets": "157,211,266,324,386,722,1030,1321,1508,1849,2191,2394,2595,2809,3023,3158,3458,3758,4136,4366,4573,4823,5108,5433,5640,5943,6156,6351,6614,6678,6925,7645"
+                    }
+                },
+                {
+                    "source": "/Users/murilokrugner/Documents/www/RN/Realidade-Virtual/Temp/gradleOut/launcher/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,288",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "286,188,513"
+                    },
+                    "to": {
+                        "startLines": "80,93,96",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "6356,6930,7068",
+                        "endLines": "81,95,99",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "6451,7063,7290"
+                    }
+                },
+                {
+                    "source": "/Users/murilokrugner/.gradle/caches/transforms-2/files-2.1/8c0f75501168772f47c356ca28896bc0/res/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    },
+                    "to": {
+                        "startLines": "58",
+                        "startColumns": "4",
+                        "startOffsets": "4578",
+                        "endColumns": "43",
+                        "endOffsets": "4617"
+                    }
+                }
+            ]
+        }
+    ]
+}

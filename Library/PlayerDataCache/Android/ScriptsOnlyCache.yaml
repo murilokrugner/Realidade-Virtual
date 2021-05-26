@@ -61,31 +61,31 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11530}
+      Script: {instanceID: 11532}
     - Class: 114
-      Script: {instanceID: 11984}
+      Script: {instanceID: 11988}
     - Class: 114
-      Script: {instanceID: 12074}
+      Script: {instanceID: 12078}
     - Class: 114
-      Script: {instanceID: 12376}
+      Script: {instanceID: 12380}
     - Class: 114
-      Script: {instanceID: 13168}
+      Script: {instanceID: 13174}
     - Class: 114
-      Script: {instanceID: 13184}
+      Script: {instanceID: 13190}
     - Class: 114
-      Script: {instanceID: 13452}
+      Script: {instanceID: 13458}
     - Class: 114
-      Script: {instanceID: 13698}
+      Script: {instanceID: 13708}
     - Class: 114
-      Script: {instanceID: 13710}
+      Script: {instanceID: 13720}
     - Class: 114
-      Script: {instanceID: 13728}
+      Script: {instanceID: 13738}
     - Class: 114
-      Script: {instanceID: 13808}
+      Script: {instanceID: 13818}
     - Class: 114
-      Script: {instanceID: 13884}
+      Script: {instanceID: 13894}
     - Class: 114
-      Script: {instanceID: 33470}
+      Script: {instanceID: 27920}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -95,8 +95,6 @@ ScriptsOnlyBuild:
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
-      Script: {instanceID: 0}
-    - Class: 205
       Script: {instanceID: 0}
     - Class: 223
       Script: {instanceID: 0}
@@ -882,4 +880,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/Game.unity
-  playerPath: /Users/murilokrugner/Documents/www/RN/Realidade-Virtual/rn-1-1.apk
+  playerPath: /Users/murilokrugner/Documents/www/RN/Realidade-Virtual/rn-1-3.apk
